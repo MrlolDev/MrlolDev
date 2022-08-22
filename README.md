@@ -2,7 +2,7 @@
 
 # MrlolDev
 
-Hola soy MrlolDev soy un desarollador web con poca experiencia pero que no se cansa de aprender.
+Hi, I am Mrlol I am from Spain but I speak spanish, portuguese and english. I am a fullstack developer, I have been coding for almost 3 years and now I am starting my own projects.
 
 ![](https://komarev.com/ghpvc/?username=MrlolGFX&color=2062af&label=Vistas+del+perfil)
 
