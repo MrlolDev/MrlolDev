@@ -4,10 +4,8 @@
 
 Hi, I am Mrlol I am from Spain but I speak spanish, portuguese and english. I am a fullstack developer, I have been coding for almost 3 years and now I am starting my own projects.
 
-<div align="center">
 ![](https://komarev.com/ghpvc/?username=MrlolGFX&color=2062af&label=Vistas+del+perfil)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5H70V5)
-</div>
 
 # Skills
 
