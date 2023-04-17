@@ -6,7 +6,7 @@ Hi, I am Mrlol I am from Spain but I speak spanish, portuguese and english. I am
 
 ![](https://komarev.com/ghpvc/?username=MrlolGFX&color=2062af&label=Profile+views)
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/530102778408861706?simple=true)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/530102778408861706)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/530102778408861706)](https://dev.discordprofiles.me/openspotify/530102778408861706)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5H70V5)
 
 # Skills
