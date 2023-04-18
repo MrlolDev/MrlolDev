@@ -11,7 +11,7 @@ Hi, I am Mrlol I am from Spain but I speak spanish, portuguese and english. I am
 
 # Skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,vercel,vscode,nodejs,nextjs,react,nuxtjs,tailwind,md,discord,git,github,docker,nginx,html,css,cloudflare,mongodb,mysql,postgres,redis,sqlite,supabase,sequelize,astro,express,bash,powershell,electron,boostrap,ps&theme=dark"
+<img src="https://skillicons.dev/icons?i=js,ts,vercel,vscode,nodejs,nextjs,react,nuxtjs,tailwind,md,discord,git,github,docker,nginx,html,css,sass,cloudflare,mongodb,mysql,postgres,redis,sqlite,supabase,sequelize,astro,express,bash,powershell,electron,boostrap,ps&theme=dark"
 </p>
  
  <details>
