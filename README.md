@@ -6,8 +6,8 @@ Hi, I am Mrlol I am from Spain but I speak spanish, portuguese and english. I am
 I want to learn more about ML and AI thats why I run my project called [Turing AI](https://turing.sh) .
 
 ![](https://komarev.com/ghpvc/?username=MrlolGFX&color=2062af&label=Profile+views)
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/530102778408861706?simple=true)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/530102778408861706)](https://dev.discordprofiles.me/openspotify/530102778408861706)
+![status](https://api.statusbadges.me/badge/status/530102778408861706?simple=true)
+[![spotify](https://api.statusbadges.me/badge/spotify/530102778408861706)](https://api.statusbadges.me/openspotify/530102778408861706)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5H70V5)
 <br></br>
 
