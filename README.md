@@ -13,7 +13,7 @@ I want to learn more about ML and AI thats why I run my project called [Turing A
 
 ## Skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,vercel,vscode,nodejs,nextjs,react,nuxtjs,tailwind,md,discord,bots,git,github,githubactions,linux,docker,nginx,html,css,sass,cloudflare,mongodb,mysql,postgres,redis,sqlite,supabase,sequelize,rabbitmq,astro,express,bash,powershell,electron,bootstrap,ps&theme=dark"
+<img src="https://skillicons.dev/icons?i=js,ts,vercel,vscode,nodejs,nextjs,react,nuxtjs,tailwind,md,bots,git,github,githubactions,linux,docker,nginx,html,css,sass,cloudflare,mongodb,mysql,postgres,redis,sqlite,supabase,sequelize,rabbitmq,astro,express,bash,powershell,electron,bootstrap,ps&theme=dark"
 </p>
  
 ## Github Stats ⚡
