@@ -5,9 +5,6 @@
 Hi, I am Mrlol I am from Spain but I speak spanish, portuguese and english. I am a fullstack developer, I have been coding for almost 5 years I work at [Wildfire](https://getwildfire.gg) and I love to learn.
 
 ![](https://komarev.com/ghpvc/?username=MrlolGFX&color=2062af&label=Profile+views)
-![status](https://api.statusbadges.me/badge/status/530102778408861706?simple=true)
-[![spotify](https://api.statusbadges.me/badge/spotify/530102778408861706)](https://api.statusbadges.me/openspotify/530102778408861706)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5H70V5)
 <br></br>
 
 ## Skills
