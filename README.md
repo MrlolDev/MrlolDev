@@ -2,7 +2,7 @@
 
 # MrlolDev
 
-Hi, I am Mrlol I am from Spain but I speak spanish, portuguese and english. I am a fullstack developer, I have been coding for almost 5 years I work at [Wildfire](https://getwildfire.gg) and I love to learn.
+Hi, I am Leo I am from Spain but I speak spanish, portuguese and english. I am a fullstack developer, I have been coding for almost 5 years
 
 ![](https://komarev.com/ghpvc/?username=MrlolGFX&color=2062af&label=Profile+views)
 <br></br>
