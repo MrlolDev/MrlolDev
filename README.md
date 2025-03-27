@@ -1,6 +1,6 @@
 <img align='left' src='./assets/logo.gif' width='25%' heigh="35%">
 
-# MrlolDev
+# Leo
 
 Hi, I am Leo I am from Spain but I speak spanish, portuguese and english. I am a fullstack developer, I have been coding for almost 5 years
 
